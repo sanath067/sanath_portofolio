@@ -17,7 +17,7 @@ This is my personal portfolio website showcasing my education, technical skills,
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Projects Highlighted
